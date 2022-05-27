@@ -43,16 +43,19 @@ html,body{
   align-items: center;
   justify-content: center; */
 }
+
 .wrap {
   /* padding: 50px; */
   display: flex;
   flex-direction: column;
   height: 100%;
 }
+
 .header {
   height: 65px;
   background-color: mediumaquamarine;
 }
+
 .tablist {
   height: 70px;
   background-color: olive;
@@ -63,12 +66,14 @@ html,body{
   display: flex;
   flex: 1;
 }
+
 .aside {
   display: flex;
   flex: none;
   width: 200px;
   background-color: #bfbab078;
 }
+
 .contents{
   display: flex;
   flex: 1;
