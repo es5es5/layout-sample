@@ -28,13 +28,6 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-/* Reset CSS */
-html,body{
-  margin: 0;
-  padding: 0;
-  height: 100%;
-}
-
 /* 주식해둔 모든 내용들 주석 해제하면, 가운데로 모여있는 UI Layout. */
 #flex {
   height: 100%;
